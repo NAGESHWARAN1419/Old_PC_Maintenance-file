@@ -1,28 +1,43 @@
+==================================================
+      OLD PC MAINTENANCE AND SECURITY SCAN
 ================================================== 
-OLD PC MAINTENANCE REPORT 
-Started: Fri 10/16/2026 13:03:37.95 
-================================================== 
-Cleaning user temporary files... 
-C:\Users\NAGESH\AppData\Local\Temp\15c158d4-ca44-40f2-b8b4-34ab2a8b195c.tmp
-The process cannot access the file because it is being used by another process.
-C:\Users\NAGESH\AppData\Local\Temp\57ad838d-e9c3-4927-a2b0-488051562c1b.tmp
-The process cannot access the file because it is being used by another process.
-C:\Users\NAGESH\AppData\Local\Temp\5b37e087-eab4-445b-abd7-e8f15fd9394b.tmp
-The process cannot access the file because it is being used by another process.
-C:\Users\NAGESH\AppData\Local\Temp\624bc173-76dd-48c3-b88c-4e25966891a0.tmp
-The process cannot access the file because it is being used by another process.
-C:\Users\NAGESH\AppData\Local\Temp\8a7e41c9-ca1f-47c7-b9ba-1f84b3ac8115.tmp
-The process cannot access the file because it is being used by another process.
-C:\Users\NAGESH\AppData\Local\Temp\99ca1c05-c4fe-4851-b764-67c9ee07627c.tmp
-The process cannot access the file because it is being used by another process.
-C:\Users\NAGESH\AppData\Local\Temp\adc11ac9-2e62-4bff-baf2-d9172a667bfb.tmp
-The process cannot access the file because it is being used by another process.
-C:\Users\NAGESH\AppData\Local\Temp\ef50131e-8feb-4565-b591-f14af732844b.tmp
-The process cannot access the file because it is being used by another process.
-C:\Users\NAGESH\AppData\Local\Temp\~DFBEA0B889F3E0B61F.TMP
-The process cannot access the file because it is being used by another process.
-Cleaning Windows temporary files... 
-Emptying Recycle Bin... 
-Starting MRT... 
-MRT was launched. Check its results window. 
-Defender full scan started... 
+Please keep the computer connected to power.                                                                            
+Do not turn off the PC 
+while repairs are running.                                                                                                                                                                                               [1/7] Cleaning user temporary files...
+User temporary cleanup finished.
+
+[2/7] Cleaning Windows temporary files...
+Windows temporary cleanup finished.
+
+[3/7] Emptying Recycle Bin...
+Recycle Bin cleanup attempted.
+
+[4/7] Starting Microsoft MRT...
+Follow the instructions in the MRT window.
+This tool may not be installed on every Windows version.
+
+[5/7] Running Microsoft Defender full scan...
+This can take several hours on an old computer.
+Do not close this window.
+Defender scan started successfully.
+See the log for details.
+
+[6/7] Running System File Checker...
+This may take a while.
+SFC command finished. Review the log for its result.
+
+[7/7] Checking Windows component health...
+DISM command finished. Review the log for its result.
+
+==================================================
+            MAINTENANCE FINISHED
+==================================================
+
+Check the log file:
+"C:\Users\Desktop\PC_Maintenance_Log.txt"
+
+IMPORTANT:
+A finished command does not always mean a repair succeeded.
+Review the log and Windows Security for scan results.
+
+Press any key to close this window.
