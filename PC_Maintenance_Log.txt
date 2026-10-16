@@ -1,0 +1,28 @@
+================================================== 
+OLD PC MAINTENANCE REPORT 
+Started: Fri 10/16/2026 13:03:37.95 
+================================================== 
+Cleaning user temporary files... 
+C:\Users\NAGESH\AppData\Local\Temp\15c158d4-ca44-40f2-b8b4-34ab2a8b195c.tmp
+The process cannot access the file because it is being used by another process.
+C:\Users\NAGESH\AppData\Local\Temp\57ad838d-e9c3-4927-a2b0-488051562c1b.tmp
+The process cannot access the file because it is being used by another process.
+C:\Users\NAGESH\AppData\Local\Temp\5b37e087-eab4-445b-abd7-e8f15fd9394b.tmp
+The process cannot access the file because it is being used by another process.
+C:\Users\NAGESH\AppData\Local\Temp\624bc173-76dd-48c3-b88c-4e25966891a0.tmp
+The process cannot access the file because it is being used by another process.
+C:\Users\NAGESH\AppData\Local\Temp\8a7e41c9-ca1f-47c7-b9ba-1f84b3ac8115.tmp
+The process cannot access the file because it is being used by another process.
+C:\Users\NAGESH\AppData\Local\Temp\99ca1c05-c4fe-4851-b764-67c9ee07627c.tmp
+The process cannot access the file because it is being used by another process.
+C:\Users\NAGESH\AppData\Local\Temp\adc11ac9-2e62-4bff-baf2-d9172a667bfb.tmp
+The process cannot access the file because it is being used by another process.
+C:\Users\NAGESH\AppData\Local\Temp\ef50131e-8feb-4565-b591-f14af732844b.tmp
+The process cannot access the file because it is being used by another process.
+C:\Users\NAGESH\AppData\Local\Temp\~DFBEA0B889F3E0B61F.TMP
+The process cannot access the file because it is being used by another process.
+Cleaning Windows temporary files... 
+Emptying Recycle Bin... 
+Starting MRT... 
+MRT was launched. Check its results window. 
+Defender full scan started... 
